@@ -1,4 +1,4 @@
-# Dan Walter 👋
+# Dan Walter
 
 Full-stack Web Developer focused on building fast, practical systems that solve real problems.
 
